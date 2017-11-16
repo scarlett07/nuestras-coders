@@ -1,0 +1,61 @@
+header{
+  font-family: 'Nunito', sans-serif;
+  font-size: xx-large;
+
+}
+
+#america{
+  background-image: url('../assets/images/America.jpg');
+}
+
+#monse{
+  background-image: url('../assets/images/Monserrat.jpg');
+}
+
+#scar{
+  background-image: url('../assets/images/Scarlett.jpg');
+}
+
+#soni{
+  background-image: url('../assets/images/Sonia.jpg');
+}
+
+#tania{
+  background-image: url('../assets/images/Tania.jpg');
+}
+
+#yordana{
+  background-image: url('../assets/images/Yordana.jpg');
+}
+.alineacion {
+  margin: 20px 20px 20px 0px;
+}
+
+.clear {
+  clear: left;
+}
+
+.cuadro{
+  background-color: black;
+  height: 10px;
+  width: 100px;
+}
+
+.image {
+  background-size: cover;
+  height: 300px;
+  width: 300px;
+  margin: 15px;
+  text-align: right;
+  float: left;
+}
+
+.name{
+  background-color: rgba(28, 40, 51, 0.5);
+  color: #F1C40F;
+  font-family: 'Indie Flower';
+  font-size: 20px;
+  width: 150px;
+  margin:85% 0% 0% 45%;
+  text-align: center;
+}
