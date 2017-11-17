@@ -1,7 +1,11 @@
 header{
   font-family: 'Nunito', sans-serif;
   font-size: xx-large;
+}
 
+article>div:hover{
+  cursor: pointer;
+  filter: sepia(60%);
 }
 
 #america{
